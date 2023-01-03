@@ -19,6 +19,6 @@ Brunhilda is an automated tool for web application reconnaissance and security a
 
 ## Example Usage
 
-``bash
+``_bash
 ./Brunhilda.sh -fpst 20 -gjd targets.txt
 ```
