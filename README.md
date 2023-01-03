@@ -22,3 +22,11 @@ Brunhilda is an automated tool for web application reconnaissance and security a
 ```bash
 ./Brunhilda.sh -fpst 20 -gjd targets.txt
 ```
+
+## What to Expect
+
+This is just yet another bash script to automate web app reconnaissance that we coded with @theFr1nge in our free time, so please don't expect too much from it. It was initially created as a simple script to help with our personal needs, and I am happy to share it with others who may find it useful. I hope you enjoy using it, and please let me know if you have any suggestions or find any bugs.
+
+## Contributing
+
+This project is quite straightforward, so you should be able to easily locate and fix any bugs you encounter. If you do so, feel free to submit a pull request with your changes. If you are unable to fix the issue on your own, don't hesitate to open an issue for assistance.
