@@ -29,7 +29,7 @@ I plan to create an installation script for Brunhilda in the future when I have 
 
 ## What to Expect
 
-This is just yet another bash script to automate web app reconnaissance that we coded with [@Yigit](https://github.com/theFr1nge) in our free time, so don't expect too much from it. It was initially created as a simple script to help with our personal needs, and I am happy to share it with others who may find it useful. I hope you enjoy using it, and please let me know if you have any suggestions or find any bugs.
+This is just yet another bash script to automate web app reconnaissance that we coded with [@Yigit](https://github.com/theFr1nge) in our free time, so don't expect too much from it. It was initially created as a simple script to help with our personal needs, and I am happy to share it with others who may find it useful.
 
 ## Contributing
 
