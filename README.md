@@ -23,8 +23,11 @@ I plan to create an installation script for Brunhilda in the future when I have 
 
 ## Example Usage
 
+
+
 ```bash
-./Brunhilda.sh -fpst 20 -gjd targets.txt
+chmod+x Brunhilda.sh; mv Brunhilda.sh Brunhilda
+./Brunhilda -fpst 20 -gjd targets.txt
 ```
 
 ## What to Expect
